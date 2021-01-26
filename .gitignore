@@ -103,6 +103,9 @@ dist
 # TernJS port file
 .tern-port
 
+# VSCODE
+.vscode/
+
 #amplify
 amplify/\#current-cloud-backend
 amplify/.config/local-*
