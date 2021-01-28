@@ -67,7 +67,8 @@ In order for your application to fully work, you will need to configure few extr
     * Scroll down to *Do you want to customize your email verification messages?*
     * Select: **Verification type:** *Link*
     * This change will send user link to verify accoun instead of verification code (the App currently does not support verification codes)
-5 In the left hand side navigation under *App integration* choose **Domain name**
+
+5. In the left hand side navigation under *App integration* choose **Domain name**
     * Add *Domain prefix*  or configure your own domain
     * If you don't add domain you will probably see the error message when trying to register new user: *Cannot perform specific action because there does not exist a valid use pool domain associated with the user pool*
 
